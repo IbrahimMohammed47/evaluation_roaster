@@ -11,7 +11,8 @@ const timeout = { timeout:500000 }
 
     await navigate_entity(page, 'https://student.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx');
     await evaluate_entity(page, '#crsIdLst', 'https://student.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx');
-
+    
+    await browser.close();
 })();
 
 async function navigate_entity(page, url) {
