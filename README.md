@@ -21,4 +21,4 @@ npm i
 ```
 node evaluation_roaster 
 ```
-then enter your credentials
+then enter your credentials and let tHE GAME BEGIN :smiling_imp:
